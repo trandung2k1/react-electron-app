@@ -39,6 +39,7 @@
         "name": "trandung2k1",
         "email": "trandungitksnb2001@gmail.com"
     },
+    "displayName": "",
     "license": "MIT",
     "dependencies": {
         "@vitejs/plugin-react": "^4.2.1",
